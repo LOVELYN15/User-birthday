@@ -1,0 +1,11 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.intro {
+ background-image: url(images/afr.jpg);
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ height: 500px;
+}
