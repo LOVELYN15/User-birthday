@@ -8,4 +8,16 @@
  background-repeat: no-repeat;
  background-size: cover;
  height: 500px;
+ color: white;
+ text-align: center;
+ padding-top: 50px;
+}
+.intro h1 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-decoration-line: underline;
+}
+.intro p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: xx-large;
+  font-weight: 200;
 }
